@@ -8,7 +8,7 @@ The general settings can be found in [`src/yml/site.yml`](https://github.com/thi
 
 > **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, modify those properties in your `_config.yml`.
 
-#### `name`
+#### `Charles`
 
 Type: *string*
 
