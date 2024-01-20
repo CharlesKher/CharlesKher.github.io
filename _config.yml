@@ -9,7 +9,7 @@ tags:
   - jekyll
   - theme
   - netlify
-show_hero: False
+show_hero: True
 menu:
   - title: Home
     url: /
