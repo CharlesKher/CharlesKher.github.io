@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2019-05-16
 layout: post
 title: This is a test change for the website
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
